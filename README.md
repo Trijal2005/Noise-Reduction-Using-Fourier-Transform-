@@ -1,8 +1,7 @@
 # Noise-Reduction-Using-Fourier-Transform-
-**Noise Reduction using Fourier Transform**    This project removes noise from audio signals using Fourier Transform, improving clarity for speech recognition and other applications.
-Here’s a proper **README.md** file formatted for a GitHub repository:
+**📶 Noise Reduction using Fourier Transform**    This project removes noise from audio signals using Fourier Transform, improving clarity for speech recognition and other applications.
 
---
+---
 ## 📖 Introduction
 
 This project showcases how Fourier Transform techniques can be employed to enhance audio signals by reducing noise. By filtering noise frequencies, the processed signals become clearer and more robust, especially in speech recognition applications.
